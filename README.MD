@@ -127,11 +127,6 @@ Upload your model:
 ```bash
 python upload_model.py
 ```
-Your model website:
-`https://huggingface.co/peter-haan/finetuned-distilbert`
-
-As long as you visit the following address, you can enter an Article and a Comment online to see the model’s prediction results.
-`https://huggingface.co/spaces/peter-haan/relevance-classifier-demo`
 ---
 
 
