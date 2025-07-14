@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Python virtual environments
+.env
+
+__pycache__/
+**/__pycache__/
+
+deploy-2.md
+
+.ipynb_checkpoints/
+finetuned-distilbert/
+finetuned-distilbert-continued/
+hugging-face/
+results/
