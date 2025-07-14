@@ -8,7 +8,7 @@
 __pycache__/
 **/__pycache__/
 
-**.csv
+*.csv
 
 deploy-2.md
 upload_model.py
